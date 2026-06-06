@@ -1,0 +1,22 @@
+........                                                                 [100%]
+================================ tests coverage ================================
+______________ coverage: platform darwin, python 3.11.14-final-0 _______________
+
+Name                            Stmts   Miss  Cover
+---------------------------------------------------
+src/vlm/__init__.py                 1      0   100%
+src/vlm/cli/__init__.py             0      0   100%
+src/vlm/cli/main.py                44     44     0%
+src/vlm/providers/__init__.py       0      0   100%
+src/vlm/providers/base.py           6      0   100%
+src/vlm/providers/mock.py          33      0   100%
+src/vlm/runner.py                  38     38     0%
+src/vlm/scoring/__init__.py         0      0   100%
+src/vlm/scoring/score.py            5      5     0%
+src/vlm/tasks/__init__.py           0      0   100%
+src/vlm/tasks/load.py              19      0   100%
+src/vlm/types.py                   36      0   100%
+src/vlm/viz/__init__.py             0      0   100%
+src/vlm/viz/charts.py             173    173     0%
+---------------------------------------------------
+TOTAL                             355    260    27%

@@ -1,0 +1,12 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.11.14, pytest-9.0.3, pluggy-1.6.0
+rootdir: /Users/mani/Projects/akshitha-portfolio/projects/vlm-eval-suite
+configfile: pyproject.toml
+testpaths: tests
+plugins: cov-7.1.0, anyio-4.13.0
+collected 8 items
+
+tests/test_mock.py ....                                                  [ 50%]
+tests/test_tasks.py ....                                                 [100%]
+
+============================== 8 passed in 0.17s ===============================
