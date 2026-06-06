@@ -92,7 +92,7 @@ flowchart LR
     C -->|anthropic/openai/google/hf| E[real adapter]
     D --> S[scoring.score_item]
     E --> S
-    S --> R[results/scored.jsonl]
+    S --> R["results/scored.jsonl"]
     R --> V[viz.charts]
     V --> F[5 figures]
 ```
