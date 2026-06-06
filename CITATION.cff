@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: vlm — VLM eval suite
+authors:
+  - family-names: Lingampally
+    given-names: Akshitha Reddy
+type: software
+date-released: 2024-12-12
+repository-code: https://github.com/Akshitha024/vlm-eval-suite
+license: MIT
+references:
+  - type: article
+    title: "MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI"
+    authors: [{family-names: Yue, given-names: Xiang}]
+    year: 2024
+    url: https://arxiv.org/abs/2311.16502
+  - type: article
+    title: "DocVQA: A Dataset for VQA on Document Images"
+    authors: [{family-names: Mathew, given-names: Minesh}]
+    year: 2021
+    url: https://arxiv.org/abs/2007.00398
+  - type: article
+    title: "ChartQA: A Benchmark for Question Answering about Charts"
+    authors: [{family-names: Masry, given-names: Ahmed}]
+    year: 2022
+    url: https://arxiv.org/abs/2203.10244
