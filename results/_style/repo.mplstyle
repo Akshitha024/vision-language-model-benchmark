@@ -1,0 +1,21 @@
+# Spectrum Lens palette for this repo. Re-rendered charts pick this up.
+axes.facecolor: #10002B
+figure.facecolor: #10002B
+axes.edgecolor: #FFFFFF
+axes.labelcolor: #FFFFFF
+axes.titlecolor: #FFFFFF
+axes.titleweight: bold
+xtick.color: #FFFFFF
+ytick.color: #FFFFFF
+grid.color: #3C096C
+grid.alpha: 0.5
+axes.grid: True
+axes.spines.top: False
+axes.spines.right: False
+axes.prop_cycle: cycler('color', [#4E148C, #7B2CBF, #9D4EDD, #C77DFF, #E0AAFF, #FFB400])
+font.family: sans-serif
+font.sans-serif: Helvetica, Arial, DejaVu Sans
+font.size: 10
+figure.titlesize: 14
+figure.titleweight: bold
+image.cmap: plasma
